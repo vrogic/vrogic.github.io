@@ -1,6 +1,6 @@
 /**
-* Template Name: Groovin - v4.8.1
-* Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
+* Template Name: Vrogic - v4.8.1
+* Template URL: https://bootstrapmade.com/vrogic-free-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
